@@ -5,3 +5,6 @@ Day 1-10 Projects
 Day 1 - A band name generator
 Day 2 - Tip Calculator
 Day 3 - Treasure Island
+Day 4 - Rock Paper Scissors
+Day 5 - Password Generator
+Day 6 - Reeborg.CA maze puzzle code

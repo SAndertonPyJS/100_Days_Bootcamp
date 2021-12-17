@@ -8,3 +8,4 @@ Day 3 - Treasure Island
 Day 4 - Rock Paper Scissors
 Day 5 - Password Generator
 Day 6 - Reeborg.CA maze puzzle code
+Day 7 - Hangman

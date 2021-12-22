@@ -9,3 +9,6 @@ Day 4 - Rock Paper Scissors
 Day 5 - Password Generator
 Day 6 - Reeborg.CA maze puzzle code
 Day 7 - Hangman
+Day 8 - Caeser Cypher
+Day 9 - Blind Auction 
+Day 10 - Basic Calculator

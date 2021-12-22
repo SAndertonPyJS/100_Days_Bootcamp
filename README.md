@@ -1,6 +1,6 @@
 # 100_Days_Bootcamp
 
-Repository containing all my coursework from the 100 Days of python course. I wanted to create a place where I could store this for future revision / user / revisiting and to kind of creat an archive of my journey from knowing absolutely nothing to being a somewhat competant developer. 
+Repository containing all my coursework from the 100 Days of python course. I wanted to create a place where I could store this for future revision / use / revisiting and to kind of create an archive of my journey from knowing absolutely nothing to being a somewhat competant developer. 
 
 There are two files of note:
 

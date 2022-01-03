@@ -46,6 +46,9 @@ EX:
 				Project
 				Readme.txt
 
+Some days will have no coursework or no projects, as we get further into the course there will be less of the former as those 
+are designed primarily to understand the concepts being taught. As we get further this becomes a case of RTFM.
+
 WHY A REPO / WHO CAN USE / LICENSE
 
 This repo is designed primarily for archival purposes and as such is here for potential employers to review as well as for

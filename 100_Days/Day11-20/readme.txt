@@ -10,19 +10,29 @@ Day 11 - The Blackjack Capstone Project
 
 Day 12 - Scope & number guessing game
 
+	- Namespaces Local vs Global Scope
+	- Does Python have block Scope
+	- How to modify A global variable
+	- Python Constants and Global Scope
+		[Quiz: Scope]
+	- Project: Number Guessing Game
 
 
 Day 13 - Debugging how to find and fix errors in your code
 
-
+	- Various tips & Lessons on debugging
+		[Exercise: Debugging odd even]
+		[Exercise: Debugging Leap Year]
+		[Exercise: Debugging Fizz Buzz]
 
 Day 14 - Higher lower game project
 
-
+	- Project: Higher Lower Game
 
 Day 15 - Local Development Environment Setup & Coffee Machine Project
 
-
+	- Installing a local IDE or Dev Environment (Vscode)
+	- Project: Coffee Machine
 
 Day 16 - Object Oriented Programming 
 

@@ -36,6 +36,14 @@ Day 15 - Local Development Environment Setup & Coffee Machine Project
 
 Day 16 - Object Oriented Programming 
 
+	- Why do we need OOP & how does it work
+	- How to use OOP: Classes & Objects
+	- Constructing Objects & Accessing their attributes / Methods
+	- How to add packages and use pypi
+	 	[Exercise: Practice Modigying Object Attributes / Calling Methods w/ Pretty Tables]
+		[Quiz: Python Objects]
+	- Project: Rebuilding The Coffee Machine In OOP
+
 
 
 Day 17 - The Quiz Project & Benefits of OOP
